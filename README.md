@@ -1,8 +1,6 @@
 # 🍽️ ProjectAlpha Android - Social Dining & Discovery Platform
 
 > **Note:** This is a commercial project currently in development. The source code is hosted in a **Private Repository**. This showcase repository demonstrates the engineering standards, UI/UX implementation, and architectural patterns used in the project. **This project still in progress**.
-> >[Here is a screenshot of private repository ProjectAlpha_Android's file hierarchy](https://imgur.com/r7MBXVa)
-
 ---
 
 ## 📱 Project Overview
@@ -28,8 +26,11 @@
 * **Network:** Retrofit + OkHttp (Authenticated requests with Token Management)
 * **DI:** Hilt (Dagger)
 * **Security:** Encrypted Shared Preferences & Auth Interceptors
-
----
+<details>
+  <summary><b>📂 Click to view full Project Architecture (Source Tree)</b></summary>
+  <br>
+  <img src="https://imgur.com/r7MBXVa.png" alt="Project Hierarchy">
+</details>
 
 ---
 
