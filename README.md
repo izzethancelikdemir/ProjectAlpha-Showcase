@@ -1,12 +1,14 @@
 # 🍽️ ProjectAlpha Android - Social Dining & Discovery Platform
 
 > **Note:** This is a commercial project currently in development. The source code is hosted in a **Private Repository**. This showcase repository demonstrates the engineering standards, UI/UX implementation, and architectural patterns used in the project. **This project still in progress**.
+> >[Here is a screenshot of private repository ProjectAlpha_Android's file hierarchy](https://imgur.com/r7MBXVa)
 
 ---
 
 ## 📱 Project Overview
 **ProjectAlpha** is a consumer-facing (B2C) Android application that allows users to discover restaurants, create curated dining lists, write reviews, and interact with a social foodie community. Unlike standard utility apps, ProjectAlpha focuses heavily on **immersive user experience**, **fluid animations**, and **social connectivity**. 
 >*It's the mobile port of ProjectAlpha Web Application *(made by our team as a project which is still in progress)* and also my very first Android Application.*
+
 
 ---
 
