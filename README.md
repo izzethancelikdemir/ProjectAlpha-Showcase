@@ -22,8 +22,8 @@
 * **UI Framework:** [Jetpack Compose](https://developer.android.com/jetpack/compose) with Material3
 * **State Management:** MVVM + MVI Pattern (using `UiState` data classes)
 * **Animations:** Animated headers, Scrollable tabs, and some animated interactive UI modules *(e.g., Fortune Wheel)*.
-* **Local Storage:** [Room Database](https://developer.android.com/training/data-storage/room) & DataStore (Proto)
-* **Network:** Retrofit + OkHttp (Authenticated requests with Token Management)
+* **Local Storage:** [Room Database](https://developer.android.com/training/data-storage/room) & DataStore (Preferences)
+* **Network:** Retrofit + OkHttp (Authenticated requests with Token Management) + Gson
 * **DI:** Hilt (Dagger)
 * **Security:** Encrypted Shared Preferences & Auth Interceptors
 <details>
@@ -50,7 +50,7 @@ The app utilizes advanced Compose animation APIs to create a seamless user journ
 
 ### 3. Robust Data Layer
 * **Offline Caching:** Uses Room Database (`BusinessDao`, `AppDatabase`) to cache restaurant data for offline viewing.
-* **Type-Safe DataStore:** Manages user sessions and preferences securely using Proto DataStore.
+* **Type-Safe DataStore:** Manages user sessions and preferences securely using Preferences DataStore.
 
 ---
 ## 🧩 Architectural Snippets
